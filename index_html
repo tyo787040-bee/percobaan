@@ -1,23 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <title>Profil Saya?title>
+   <title>Profil Saya</title>
+<link rel="stylesheet" href="style.CSS">
 </head>
 <body>
-</body>
-</html>
-</html>
-   <img src="foto profil.jpg" alt="foto profil saya">
+ <div class=kartu profil">
+   <img src="foto profil.jpg" alt="Foto profil saya">
     <h1>Nama lengkap anda</h1>
-    <p>siswa sma yang tertarik dengan teknologi dan desain</p>
-selamat datang di websites pertama saya!</p><a
-href="https://www.intagram.com/username anda">kunjungi intagram saya</a>
-</body>
-   <div class=kartu profil">
-      <ing src= foto profil . jpg" alt="Foto profil saya
-      <h1>Nama Lengkap Anda</h1>h1
-      <p>Siswa SMA yang tertarik dengan teknologi dan desain. Selamat datang di website saya!</p>
-      <a href="https://www.instagram.com/tyoo_adde">kunjungi Instagram saya</a>
-   </div>
+    <p>siswa sma yang tertarik dengan teknologi dan desain. selamat datang di websites pertama saya!</p>
+     <a href="https://www.intagram.com/username anda">Kunjungi Intagram Saya</a>
+</div>
 </body>
 </html>
